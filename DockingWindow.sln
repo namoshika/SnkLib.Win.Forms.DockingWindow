@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockingWindow", "DockingWindow\DockingWindow.csproj", "{FABA04CD-DDAA-4ECA-8FD7-766436FD8D61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockingWindowSample", "DockingWindowSample\DockingWindowSample.csproj", "{8C15C631-0873-4593-94B2-F808CB9C9E71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FABA04CD-DDAA-4ECA-8FD7-766436FD8D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABA04CD-DDAA-4ECA-8FD7-766436FD8D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABA04CD-DDAA-4ECA-8FD7-766436FD8D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABA04CD-DDAA-4ECA-8FD7-766436FD8D61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C15C631-0873-4593-94B2-F808CB9C9E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C15C631-0873-4593-94B2-F808CB9C9E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C15C631-0873-4593-94B2-F808CB9C9E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C15C631-0873-4593-94B2-F808CB9C9E71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
